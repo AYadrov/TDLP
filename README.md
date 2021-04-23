@@ -1,4 +1,4 @@
-# Theory and developing programming languages
+# Theory and developing of programming languages
 
 -----
 
