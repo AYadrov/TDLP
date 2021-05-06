@@ -10,7 +10,7 @@ In that project you can find my labs under this subject
 <li>3) Pushdown automatons, Context-free grammars and Languages</li>
 <li>4) Parsing context-free languages part 1</li>
 <li>5) Parsing context-free languages part 2</li>
-<li>6)</li>
+<li>6) Turing Machine</li>
 <li>7)</li>
 </p>
 -----
