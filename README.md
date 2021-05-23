@@ -11,6 +11,6 @@ In that project you can find my labs under this subject
 <li>4) Parsing context-free languages part 1</li>
 <li>5) Parsing context-free languages part 2</li>
 <li>6) Turing Machine</li>
-<li>7)</li>
+<li>7) Investigation of computability problems without using an abstract Turing machine.</li>
 </p>
 -----
